@@ -1,1 +1,1 @@
-# tg-bot
+# TG-Bot
